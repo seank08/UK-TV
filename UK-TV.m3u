@@ -15,7 +15,7 @@ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultraf
 #EXTINF:-1,Channel 5
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
 
-#EXTINF:-1,ITV 2
+#EXTINF:-1,ITV2
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5
 
 #EXTINF:-1,BBC Three
@@ -30,35 +30,11 @@ http://www.ntv.mx%2Fres%2Fcontent%2Ftv%2F30.png&cat=30
 #EXTINF:-1,Dave
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=11
 
-#EXTINF:-1,Food Network
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
-
-#EXTINF:-1, E4 HD
+#EXTINF:-1, E4
 http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
 
 #EXTINF:-1,Food Network
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=32
-
-#EXTINF:-1, Sky Sports 1
-http://185.56.30.127:8082/TV4284
-
-#EXTINF:-1, Sky Sports 2
-http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
-
-#EXTINF:-1, Sky Sports 3
-http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
-
-#EXTINF:-1, Sky Sports 4
-http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
-
-#EXTINF:-1, Sky Sports 5
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
-
-#EXTINF:-1, BT Sport 1
-http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
-
-#EXTINF:-1, BT Sport 2
-http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
 
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
@@ -110,3 +86,24 @@ http://185.56.30.127:8082/TV4248
 
 #EXTINF:-1, Sky Movies SciFi
 http://185.56.30.127:8082/TV4249
+
+#EXTINF:-1, Sky Sports 1
+http://185.56.30.127:8082/TV4284
+
+#EXTINF:-1, Sky Sports 2
+http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
+
+#EXTINF:-1, Sky Sports 3
+http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+
+#EXTINF:-1, Sky Sports 4
+http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+
+#EXTINF:-1, Sky Sports 5
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+
+#EXTINF:-1, BT Sport 1
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
+
+#EXTINF:-1, BT Sport 2
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
