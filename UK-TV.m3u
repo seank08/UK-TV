@@ -76,7 +76,7 @@ http://185.56.30.127:8082/TV4248
 http://185.56.30.127:8082/TV4249
 
 #EXTINF:-1, Sky Sports 1
-http://storm1.dyndns.info:80/live?channelId=75&uid=1318&deviceUser=22davor222&devicePass=srbija111
+http://185.56.30.127:8082/TV4284
 
 #EXTINF:-1, Sky Sports 2
 http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
