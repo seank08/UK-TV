@@ -18,10 +18,10 @@ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultraf
 #EXTINF:-1,ITV2
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5
 
-#EXTINF:-1,BBC Three
+#EXTINF:-1,BBC Three/CBBC
 http://82.135.224.134:80/udp/239.100.3.4:1234
 
-#EXTINF:-1,BBC Four
+#EXTINF:-1,BBC Four/Cbeebies
 http://82.135.224.134:80/udp/239.100.3.5:1234
 
 #EXTINF:-1,ITV3
