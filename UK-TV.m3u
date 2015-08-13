@@ -18,11 +18,20 @@ http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultraf
 #EXTINF:-1,ITV2
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=5
 
-#EXTINF:-1,BBC Three
+#EXTINF:-1,BBC Three/CBBC
 http://82.135.224.134:80/udp/239.100.3.4:1234
 
 #EXTINF:-1,BBC Four/Cbeebies
 http://82.135.224.134:80/udp/239.100.3.5:1234
+
+#EXTINF:-1,. Sky 1
+http://37.187.160.187:8000/live/ressler/skype/77.m3u8
+
+#EXTINF:-1,. Sky 2 UK
+http://37.187.160.187:8000/live/ressler/skype/79.m3u8
+
+#EXTINF:-1,. Comedy Central UK
+http://37.187.160.187:8000/live/ressler/skype/82.m3u8
 
 #EXTINF:-1,ITV3
 http://www.ntv.mx%2Fres%2Fcontent%2Ftv%2F30.png&cat=30
@@ -82,22 +91,21 @@ http://185.56.30.127:8082/TV4248
 http://185.56.30.127:8082/TV4249
 
 #EXTINF:-1, Sky Sports 1
-http://185.56.30.127:8082/TV4284
+
 
 #EXTINF:-1, Sky Sports 2
-http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
+
 
 #EXTINF:-1, Sky Sports 3
-http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
+
 
 #EXTINF:-1, Sky Sports 4
-http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
+
 
 #EXTINF:-1, Sky Sports 5
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+
 
 #EXTINF:-1, BT Sport 1
-http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
 
 #EXTINF:-1, BT Sport 2
-http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+
